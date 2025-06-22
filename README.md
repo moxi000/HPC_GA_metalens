@@ -3,6 +3,8 @@
 This repository contains the computational implementation and experimental data supporting the research paper "Scalable Performance-Driven Global Optimization of Large-Scale Achromatic Metalenses at Short Visible Wavelengths."
 
 ## Overview
+ 
+⚠️ Please note: All files will be uploaded after publication.
 
 This project implements a high-performance genetic algorithm optimization framework for designing large-scale achromatic metalenses operating in the short visible wavelength range (400-500 nm). The work focuses on achieving scalable computational performance while maintaining optical design quality for metalenses with varying numerical apertures and element counts.
 
